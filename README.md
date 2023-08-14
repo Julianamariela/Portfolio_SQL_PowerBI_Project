@@ -1,9 +1,9 @@
 # Superstores Sales Data Analysis with SQL and Power BI
 
-## Overview
 Superstores is an American-based retailer specializing in electronic appliances and accessories, with a diverse range of products including phones, laptops, and related accessories. The company operates in 10 cities and 8 regions, making it a prominent player in the electronics retail industry.
 
-This project aims to analyse the sales data of Superstores, which was previously prepared and normalized in Excel. The data is then imported into a SQL database for further analysis using SQL queries. Afterward, the database is connected to Power BI to create a dynamic and interactive sales dashboard.
+## Overview
+The objective of this project is to conduct a comprehensive analysis of Superstores' sales data, which is initially prepared and normalized in Excel before being imported into a SQL database. The project focuses on leveraging SQL queries to extract, manipulate, aggregate, and summarize the data for various analytical needs. Additionally, the SQL query results are integrated into Power BI for further analysis. The project culminates in the creation of a dynamic and interactive sales dashboard, which includes detailed customer analysis to identify growth opportunities in key products and market segments. Moreover, predictive models are developed utilizing Decision Tree, Logistic Regression, and Gradient Boosting techniques to predict existing customers and prospective high-value customers, enhancing strategic decision-making.
 
 ## Project Structure
 The project follows these main steps:
