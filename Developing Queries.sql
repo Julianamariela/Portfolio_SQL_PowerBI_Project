@@ -1,7 +1,4 @@
-/* Capstone Project - Developing Queries with Microsoft SQL Server*/
-
---Develop a Database and populate the data using the Excel files from Part 1 "EletronicsTrend"--
-/* summarizing my work:
+/* Developing Queries with Microsoft SQL Server:
 1.The files were imported into Excel using Power Query and underwent cleaning.
 2.Excel was used to perform schema and normalization tasks.
 3.After normalization, the files were saved in CSV format to facilitate importing into SQL.
