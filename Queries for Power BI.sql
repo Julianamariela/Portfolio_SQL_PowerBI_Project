@@ -1,7 +1,4 @@
-/*Question 1
-Using the database created from Part 2(Project Capstone -SQL) 
-please answer the questions using PowerBI 
-(Connect the SQL database created to PowerBI)*/
+/*SQL database created to PowerBI*/
 
 
 SELECT
