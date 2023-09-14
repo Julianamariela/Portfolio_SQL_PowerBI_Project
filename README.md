@@ -1,4 +1,4 @@
-# Sales Strategy Insight - SQL and Power BI
+# Sales Strategy Optimization
 
 Superstores is an American-based retailer specializing in electronic appliances and accessories, with a diverse range of products including phones, laptops, and related accessories. The company operates in 10 cities and 8 regions, making it a prominent player in the electronics retail industry.
 
